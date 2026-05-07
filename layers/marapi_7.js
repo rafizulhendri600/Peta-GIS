@@ -1,0 +1,1 @@
+var json_marapi_7 = {"type":"FeatureCollection","name":"marapi_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Gunung Marapi"},"geometry":{"type":"Point","coordinates":[100.473,-0.381]}}]}
